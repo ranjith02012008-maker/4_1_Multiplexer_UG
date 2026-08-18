@@ -211,7 +211,17 @@ endmodule
 ```
 # Simulated Output Structural Modelling
 
+# Simulated Output Structural Modelling
+
 <img width="1580" height="882" alt="image" src="https://github.com/user-attachments/assets/0fc02697-6ba5-4f2b-81e1-2809fa0596fe" />
+
+
+# CONCLUSION
+In this experiment, a 4:1 Multiplexer was successfully designed and simulated using Verilog HDL across four different modeling styles: Gate-Level, Data Flow, Behavioral, and Structural.The simulation results verified the correct functionality of the MUX, with all implementations producing identical outputs for the given input conditions.
+
+
+
+endmodule
 
 
 # CONCLUSION
